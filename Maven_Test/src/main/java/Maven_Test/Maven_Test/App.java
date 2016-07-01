@@ -40,6 +40,7 @@ public class App
 	    	rec_count = rec_count + 1;
 	    }
 	    System.out.println(rec_count);
+	    System.out.println("Hello");
 	    rs1.close();
 	    conn.close();
 
